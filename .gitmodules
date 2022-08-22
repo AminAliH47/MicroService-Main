@@ -1,0 +1,6 @@
+[submodule "protos"]
+	path = protos
+	url = https://github.com/AminAliH47/MicroService-Gateway.git
+[submodule "user_protos"]
+	path = user_protos
+	url = https://github.com/AminAliH47/MicroService-Gateway.git
