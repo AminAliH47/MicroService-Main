@@ -1,0 +1,6 @@
+[submodule "Services/MicroService-Gateway"]
+	path = Services/MicroService-Gateway
+	url = https://github.com/AminAliH47/MicroService-Gateway.git
+[submodule "Services/MicroService-Users"]
+	path = Services/MicroService-Users
+	url = https://github.com/AminAliH47/MicroService-Users.git
